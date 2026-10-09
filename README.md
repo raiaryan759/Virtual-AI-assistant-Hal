@@ -2,7 +2,7 @@
 A Python-based voice-controlled AI assistant named HAL that uses speech recognition, text-to-speech, and OpenAI's API to answer questions and perform tasks like opening YouTube, Google, and Spotify through voice commands.
 
 
-# HAL — Virtual AI Assistant 🤖
+# HAL — Virtual AI Assistant 
 
 HAL is a Python-based virtual AI assistant designed to interact with users through voice commands. It combines speech recognition, text-to-speech, and AI-powered responses to create a simple, interactive assistant inspired by tools like Alexa and Google Assistant.
 
